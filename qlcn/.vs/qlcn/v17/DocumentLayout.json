@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quang\\OneDrive\\Desktop\\qlcn\\qlcn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C4622C-6C88-4B34-9BFC-062ABE648CA4}|qlcn\\qlcn.csproj|c:\\users\\quang\\onedrive\\desktop\\qlcn\\qlcn\\qlcn\\qlcn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8C4622C-6C88-4B34-9BFC-062ABE648CA4}|qlcn\\qlcn.csproj|solutionrelative:qlcn\\qlcn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C4622C-6C88-4B34-9BFC-062ABE648CA4}|qlcn\\qlcn.csproj|c:\\users\\quang\\onedrive\\desktop\\qlcn\\qlcn\\qlcn\\nhomnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8C4622C-6C88-4B34-9BFC-062ABE648CA4}|qlcn\\qlcn.csproj|solutionrelative:qlcn\\nhomnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C4622C-6C88-4B34-9BFC-062ABE648CA4}|qlcn\\qlcn.csproj|c:\\users\\quang\\onedrive\\desktop\\qlcn\\qlcn\\qlcn\\qlcn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8C4622C-6C88-4B34-9BFC-062ABE648CA4}|qlcn\\qlcn.csproj|solutionrelative:qlcn\\qlcn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C4622C-6C88-4B34-9BFC-062ABE648CA4}|qlcn\\qlcn.csproj|c:\\users\\quang\\onedrive\\desktop\\qlcn\\qlcn\\qlcn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8C4622C-6C88-4B34-9BFC-062ABE648CA4}|qlcn\\qlcn.csproj|solutionrelative:qlcn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C4622C-6C88-4B34-9BFC-062ABE648CA4}|qlcn\\qlcn.csproj|c:\\users\\quang\\onedrive\\desktop\\qlcn\\qlcn\\qlcn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8C4622C-6C88-4B34-9BFC-062ABE648CA4}|qlcn\\qlcn.csproj|solutionrelative:qlcn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhomNV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\quang\\OneDrive\\Desktop\\qlcn\\qlcn\\qlcn\\NhomNV.cs",
+              "RelativeDocumentMoniker": "qlcn\\NhomNV.cs",
+              "ToolTip": "C:\\Users\\quang\\OneDrive\\Desktop\\qlcn\\qlcn\\qlcn\\NhomNV.cs [Design]",
+              "RelativeToolTip": "qlcn\\NhomNV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T02:06:18.261Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QLCN.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\OneDrive\\Desktop\\qlcn\\qlcn\\qlcn\\QLCN.cs",
+              "RelativeDocumentMoniker": "qlcn\\QLCN.cs",
+              "ToolTip": "C:\\Users\\quang\\OneDrive\\Desktop\\qlcn\\qlcn\\qlcn\\QLCN.cs",
+              "RelativeToolTip": "qlcn\\QLCN.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T01:55:22.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QLCN.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\quang\\OneDrive\\Desktop\\qlcn\\qlcn\\qlcn\\QLCN.cs",
+              "RelativeDocumentMoniker": "qlcn\\QLCN.cs",
+              "ToolTip": "C:\\Users\\quang\\OneDrive\\Desktop\\qlcn\\qlcn\\qlcn\\QLCN.cs [Design]",
+              "RelativeToolTip": "qlcn\\QLCN.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T01:37:34.745Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\OneDrive\\Desktop\\qlcn\\qlcn\\qlcn\\Form1.cs",
+              "RelativeDocumentMoniker": "qlcn\\Form1.cs",
+              "ToolTip": "C:\\Users\\quang\\OneDrive\\Desktop\\qlcn\\qlcn\\qlcn\\Form1.cs",
+              "RelativeToolTip": "qlcn\\Form1.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T01:36:48.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\quang\\OneDrive\\Desktop\\qlcn\\qlcn\\qlcn\\Form1.cs",
+              "RelativeDocumentMoniker": "qlcn\\Form1.cs",
+              "ToolTip": "C:\\Users\\quang\\OneDrive\\Desktop\\qlcn\\qlcn\\qlcn\\Form1.cs [Design]",
+              "RelativeToolTip": "qlcn\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T01:54:50.703Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
